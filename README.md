@@ -1,2 +1,2 @@
 # stuti_jasani
-THis is my 2nd Repository
+This is just a practtice repository
